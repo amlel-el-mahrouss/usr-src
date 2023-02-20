@@ -1,0 +1,15 @@
+GORM kernel - user branch
+===========
+
+GUI Operating System kernel written in C++ With 64-bit
+Long Mode support and SMP support.
+
+You need a copy of a cross compiler (g++) alongside binutils.
+The bootloader is made in house. This copy also comes with
+DJGPP as we support the COFF format.
+
+We support the ext2, alongside a variant of COFF.
+
+========================================================
+Copyright © SKOCH Computer Division, all rights reserved
+========================================================

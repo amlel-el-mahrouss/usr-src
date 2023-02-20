@@ -1,0 +1,16 @@
+Userland/./
+./
+HAL/x86/Library/AsmLib
+HAL/x86
+Kernel
+Storage
+Prekernel
+SysRoot
+Userland/DevTools/Xstudio
+GMB
+Arch
+Kernel/Network
+Network
+Inc/ACPI
+Userland/LibInternet
+Userland/LibC
