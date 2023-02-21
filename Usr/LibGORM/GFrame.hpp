@@ -7,11 +7,12 @@
  *
  * 	========================================================
  */
+
 #pragma once
 
 #include <LibGORM/Core.hpp>
 #include <LibGORM/Dim2d.hpp>
-#include <Gorm/MutableArray.hpp>
+#include <External/MutableArray.hpp>
 
 namespace GORM {
     using namespace Skoch;

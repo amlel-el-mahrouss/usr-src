@@ -7,12 +7,13 @@
  *
  * 	========================================================
  */
+
 #pragma once
 
-#include <Gorm/Ref.hpp>
-#include <Gorm/Array.hpp>
-#include <Gorm/String.hpp>
-#include <Gorm/Foundation.hpp>
+#include <External/Ref.hpp>
+#include <External/Array.hpp>
+#include <External/String.hpp>
+#include <External/Foundation.hpp>
 
 namespace GORM {
     template <typename... T>

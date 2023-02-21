@@ -1,7 +1,7 @@
 #ifndef __SYS_DIR_H__
 #define __SYS_DIR_H__
 
-#include <Gorm/Foundation.hpp>
+#include <External/Foundation.hpp>
 
 typedef int dir_t;
 

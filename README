@@ -1,14 +1,10 @@
-GORM kernel - user branch
-===========
+GORM SDK
+========
 
-GUI Operating System kernel written in C++ With 64-bit
-Long Mode support and SMP support.
+An SDK written to develop C++ apps for any Gorm based devices.
 
-You need a copy of a cross compiler (g++) alongside binutils.
-The bootloader is made in house. This copy also comes with
-DJGPP as we support the COFF format.
-
-We support the ext2, alongside a variant of COFF.
+Usr/ - user libraries written in C++
+Platform/ - platform dependent components (SH-X, ARM, X86)
 
 ========================================================
 Copyright © SKOCH Computer Division, all rights reserved

@@ -1,7 +1,7 @@
 #ifndef __SYS_PROCESS_H__
 #define __SYS_PROCESS_H__
 
-#include <Gorm/Foundation.hpp>
+#include <External/Foundation.hpp>
 
 typedef Skoch::voidPtr bundle_t;
 typedef Skoch::voidPtr sym_t;

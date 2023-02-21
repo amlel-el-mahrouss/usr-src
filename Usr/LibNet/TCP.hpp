@@ -7,6 +7,12 @@
  *
  * 	========================================================
  */
+
 #pragma once
 
+#include <External/Foundation.hpp>
+#include <LibSystem/Std.h>
 
+namespace LibSystem::Internet {
+
+}
